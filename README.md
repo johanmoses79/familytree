@@ -2,4 +2,4 @@
 
 Код программи - [GenealogyTree](GenealogyTree/)
 
-Звіт - [zvit.pdf](./zvit.pdf)
+Звіт - [zvit.docx](./zvit.docx)
